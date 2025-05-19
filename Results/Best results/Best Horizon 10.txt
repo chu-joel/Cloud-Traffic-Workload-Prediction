@@ -1,0 +1,21 @@
+# BEST MAE
+horizon= 10 dModel= 16 lr=5e-05slidingrate= 5 attention heads= 8
+Last epochs= 8
+Total runtime: 0.0 hours, 6.0 minutes, 1.7997150421142578 seconds
+Best training loss= 0.0007816129641025521 at epoch= 7
+Best validation loss= 0.0015116210361347541 at epoch= 6
+Best testing loss= 1.3891157314198258e-05 MAE= 0.0028473798611790293 at epoch= 6
+Early stop test= [0.012572438, 0.016907647, 0.015226079, 0.016997315, 0.01891505, 0.01624265, 0.019283285, 0.017230757, 0.016966494, 0.016873386]
+Early stop MSE = 1.389e-05 MAE = 0.00284738
+
+
+# BEST MSE
+horizon= 10 dModel= 64 lr=8e-06slidingrate= 5 attention heads= 8
+Last epochs= 20
+Total runtime: 0.0 hours, 17.0 minutes, 43.71675181388855 seconds
+Best training loss= 0.001748268992531775 at epoch= 19
+Best validation loss= 0.0014121058139932527 at epoch= 18
+Best testing loss= 1.3277490964539e-05 MAE= 0.002950640094351275 at epoch= 18
+BestTest = [0.016408494, 0.01547841, 0.017689085, 0.016677978, 0.013660965, 0.014846299, 0.017494664, 0.020094559, 0.016210752, 0.01881245]
+Early stop test= [0.016408494, 0.01547841, 0.017689085, 0.016677978, 0.013660965, 0.014846299, 0.017494664, 0.020094559, 0.016210752, 0.01881245]
+Early stop MSE = 1.328e-05 MAE = 0.00295064

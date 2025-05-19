@@ -1,0 +1,10 @@
+*.docx
+*.csv
+*.pyc
+*.pptx
+*.xls
+/mvts_transformer/mvts_transformer-master/experiments
+/mvts_transformer/mvts_transformer-master/AppliancesEnergy
+/mvts_transformer/mvts_transformer-master/src/output/*
+/transformerSlidingWindow/experiments/*
+/transformerSlidingWindow/src/*

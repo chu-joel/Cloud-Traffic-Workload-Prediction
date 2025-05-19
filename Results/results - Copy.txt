@@ -1,0 +1,233 @@
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 3 attention heads= 4
+Last epochs= 11
+Total runtime: 0.0 hours, 20.0 minutes, 27.90506649017334 seconds
+Best training loss= 0.001445501830886087 at epoch= 10
+Best validation loss= 0.001798096473343689 at epoch= 9
+Best testing loss= 0.0001596871225846566 MAE= 0.012212747346712525 at epoch= 9
+Early stop test= [0.024017122, 0.026084188, 0.029114874, 0.028785193, 0.023735296, 0.021697018, 0.026888954, 0.026347099, 0.02905252, 0.026479378]
+Early stop MSE = 0.00015969 MAE = 0.01221275
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 3 attention heads= 4
+Last epochs= 10
+Total runtime: 0.0 hours, 18.0 minutes, 16.25846767425537 seconds
+Best training loss= 0.001975519268813135 at epoch= 9
+Best validation loss= 0.0017220961196880873 at epoch= 8
+Best testing loss= 0.00011206600072619349 MAE= 0.009212356165154154 at epoch= 7
+Early stop test= [0.0210924, 0.021706114, 0.022165403, 0.026946865, 0.02746238, 0.024023095, 0.02307032, 0.029972188, 0.026860725, 0.02703396]
+Early stop MSE = 0.00012731 MAE = 0.01102593
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 3 attention heads= 4
+Last epochs= 9
+Total runtime: 0.0 hours, 16.0 minutes, 21.764320611953735 seconds
+Best training loss= 0.0030510756768301677 at epoch= 8
+Best validation loss= 0.0018548529642615809 at epoch= 7
+Best testing loss= 0.00013840899074404203 MAE= 0.01094534320465873 at epoch= 6
+Early stop test= [0.016758813, 0.025490563, 0.029683076, 0.028854597, 0.027195217, 0.023612376, 0.029874992, 0.03106378, 0.019071832, 0.021430377]
+Early stop MSE = 0.00015363 MAE = 0.01129615
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 3 attention heads= 8
+Last epochs= 11
+Total runtime: 0.0 hours, 14.0 minutes, 33.024747371673584 seconds
+Best training loss= 0.001445501830886087 at epoch= 10
+Best validation loss= 0.001798096473343689 at epoch= 9
+Best testing loss= 0.0001596871225846566 MAE= 0.012212747346712525 at epoch= 9
+Early stop test= [0.024017122, 0.026084188, 0.029114874, 0.028785193, 0.023735296, 0.021697018, 0.026888954, 0.026347099, 0.02905252, 0.026479378]
+Early stop MSE = 0.00015969 MAE = 0.01221275
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 3 attention heads= 8
+Last epochs= 10
+Total runtime: 0.0 hours, 14.0 minutes, 48.89935374259949 seconds
+Best training loss= 0.001975519268813135 at epoch= 9
+Best validation loss= 0.0017220961196880873 at epoch= 8
+Best testing loss= 0.00011206600072619349 MAE= 0.009212356165154154 at epoch= 7
+Early stop test= [0.0210924, 0.021706114, 0.022165403, 0.026946865, 0.02746238, 0.024023095, 0.02307032, 0.029972188, 0.026860725, 0.02703396]
+Early stop MSE = 0.00012731 MAE = 0.01102593
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 3 attention heads= 8
+Last epochs= 9
+Total runtime: 0.0 hours, 16.0 minutes, 5.868224859237671 seconds
+Best training loss= 0.0030510756768301677 at epoch= 8
+Best validation loss= 0.0018548529642615809 at epoch= 7
+Best testing loss= 0.00013840899074404203 MAE= 0.01094534320465873 at epoch= 6
+Early stop test= [0.016758813, 0.025490563, 0.029683076, 0.028854597, 0.027195217, 0.023612376, 0.029874992, 0.03106378, 0.019071832, 0.021430377]
+Early stop MSE = 0.00015363 MAE = 0.01129615
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 3 attention heads= 16
+Last epochs= 11
+Total runtime: 0.0 hours, 14.0 minutes, 2.495347261428833 seconds
+Best training loss= 0.001445501830886087 at epoch= 10
+Best validation loss= 0.001798096473343689 at epoch= 9
+Best testing loss= 0.0001596871225846566 MAE= 0.012212747346712525 at epoch= 9
+Early stop test= [0.024017122, 0.026084188, 0.029114874, 0.028785193, 0.023735296, 0.021697018, 0.026888954, 0.026347099, 0.02905252, 0.026479378]
+Early stop MSE = 0.00015969 MAE = 0.01221275
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 3 attention heads= 16
+Last epochs= 10
+Total runtime: 0.0 hours, 14.0 minutes, 7.073968410491943 seconds
+Best training loss= 0.001975519268813135 at epoch= 9
+Best validation loss= 0.0017220961196880873 at epoch= 8
+Best testing loss= 0.00011206600072619349 MAE= 0.009212356165154154 at epoch= 7
+Early stop test= [0.0210924, 0.021706114, 0.022165403, 0.026946865, 0.02746238, 0.024023095, 0.02307032, 0.029972188, 0.026860725, 0.02703396]
+Early stop MSE = 0.00012731 MAE = 0.01102593
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 3 attention heads= 16
+Last epochs= 9
+Total runtime: 0.0 hours, 15.0 minutes, 30.45523977279663 seconds
+Best training loss= 0.0030510756768301677 at epoch= 8
+Best validation loss= 0.0018548529642615809 at epoch= 7
+Best testing loss= 0.00013840899074404203 MAE= 0.01094534320465873 at epoch= 6
+Early stop test= [0.016758813, 0.025490563, 0.029683076, 0.028854597, 0.027195217, 0.023612376, 0.029874992, 0.03106378, 0.019071832, 0.021430377]
+Early stop MSE = 0.00015363 MAE = 0.01129615
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 5 attention heads= 4
+Last epochs= 13
+Total runtime: 0.0 hours, 9.0 minutes, 27.7884259223938 seconds
+Best training loss= 0.0025603349990519415 at epoch= 12
+Best validation loss= 0.0016551938798306377 at epoch= 11
+Best testing loss= 6.764822159130454e-05 MAE= 0.007191768259450416 at epoch= 10
+Early stop test= [0.022314327, 0.025134558, 0.030067101, 0.02373898, 0.017436098, 0.016495898, 0.021853711, 0.027312802, 0.030501183, 0.01600215]
+Early stop MSE = 0.00011359 MAE = 0.00924958
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 5 attention heads= 4
+Last epochs= 14
+Total runtime: 0.0 hours, 12.0 minutes, 48.308785915374756 seconds
+Best training loss= 0.002562773854637355 at epoch= 13
+Best validation loss= 0.001540949432384403 at epoch= 12
+Best testing loss= 3.305531242484774e-05 MAE= 0.004527267047088844 at epoch= 11
+Early stop test= [0.020690022, 0.019420642, 0.019368496, 0.01927165, 0.018760856, 0.022249771, 0.016850887, 0.024666572, 0.020172346, 0.022257892]
+Early stop MSE = 4.769e-05 MAE = 0.0063635
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 5 attention heads= 4
+Last epochs= 17
+Total runtime: 0.0 hours, 20.0 minutes, 2.598331928253174 seconds
+Best training loss= 0.0019130894087507825 at epoch= 16
+Best validation loss= 0.0012640946685066787 at epoch= 15
+Best testing loss= 4.7715535041776996e-05 MAE= 0.005375248329493439 at epoch= 13
+Early stop test= [0.021475801, 0.022231303, 0.026701272, 0.021656912, 0.021662517, 0.020638037, 0.024001744, 0.02275971, 0.019608716, 0.019568935]
+Early stop MSE = 7.782e-05 MAE = 0.00802308
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 5 attention heads= 8
+Last epochs= 13
+Total runtime: 0.0 hours, 11.0 minutes, 4.13574481010437 seconds
+Best training loss= 0.0025603349990519415 at epoch= 12
+Best validation loss= 0.0016551938798306377 at epoch= 11
+Best testing loss= 6.764822159130454e-05 MAE= 0.007191768259450416 at epoch= 10
+Early stop test= [0.022314327, 0.025134558, 0.030067101, 0.02373898, 0.017436098, 0.016495898, 0.021853711, 0.027312802, 0.030501183, 0.01600215]
+Early stop MSE = 0.00011359 MAE = 0.00924958
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 5 attention heads= 8
+Last epochs= 14
+Total runtime: 0.0 hours, 13.0 minutes, 4.122119426727295 seconds
+Best training loss= 0.002562773854637355 at epoch= 13
+Best validation loss= 0.001540949432384403 at epoch= 12
+Best testing loss= 3.305531242484774e-05 MAE= 0.004527267047088844 at epoch= 11
+Early stop test= [0.020690022, 0.019420642, 0.019368496, 0.01927165, 0.018760856, 0.022249771, 0.016850887, 0.024666572, 0.020172346, 0.022257892]
+Early stop MSE = 4.769e-05 MAE = 0.0063635
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 5 attention heads= 8
+Last epochs= 17
+Total runtime: 0.0 hours, 18.0 minutes, 53.65998935699463 seconds
+Best training loss= 0.0019130894087507825 at epoch= 16
+Best validation loss= 0.0012640946685066787 at epoch= 15
+Best testing loss= 4.7715535041776996e-05 MAE= 0.005375248329493439 at epoch= 13
+Early stop test= [0.021475801, 0.022231303, 0.026701272, 0.021656912, 0.021662517, 0.020638037, 0.024001744, 0.02275971, 0.019608716, 0.019568935]
+Early stop MSE = 7.782e-05 MAE = 0.00802308
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 13
+Total runtime: 0.0 hours, 9.0 minutes, 44.53750967979431 seconds
+Best training loss= 0.0025603349990519415 at epoch= 12
+Best validation loss= 0.0016551938798306377 at epoch= 11
+Best testing loss= 6.764822159130454e-05 MAE= 0.007191768259450416 at epoch= 10
+Early stop test= [0.022314327, 0.025134558, 0.030067101, 0.02373898, 0.017436098, 0.016495898, 0.021853711, 0.027312802, 0.030501183, 0.01600215]
+Early stop MSE = 0.00011359 MAE = 0.00924958
+
+
+horizon= 10 dModel= 64 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 14
+Total runtime: 0.0 hours, 12.0 minutes, 5.917946100234985 seconds
+Best training loss= 0.002562773854637355 at epoch= 13
+Best validation loss= 0.001540949432384403 at epoch= 12
+Best testing loss= 3.305531242484774e-05 MAE= 0.004527267047088844 at epoch= 11
+Early stop test= [0.020690022, 0.019420642, 0.019368496, 0.01927165, 0.018760856, 0.022249771, 0.016850887, 0.024666572, 0.020172346, 0.022257892]
+Early stop MSE = 4.769e-05 MAE = 0.0063635
+
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 17
+Total runtime: 0.0 hours, 18.0 minutes, 28.426227807998657 seconds
+Best training loss= 0.0019130894087507825 at epoch= 16
+Best validation loss= 0.0012640946685066787 at epoch= 15
+Best testing loss= 4.7715535041776996e-05 MAE= 0.005375248329493439 at epoch= 13
+Early stop test= [0.021475801, 0.022231303, 0.026701272, 0.021656912, 0.021662517, 0.020638037, 0.024001744, 0.02275971, 0.019608716, 0.019568935]
+Early stop MSE = 7.782e-05 MAE = 0.00802308
+
+
+horizon= 10 dModel= 32 lr=1e-05slidingrate= 8 attention heads= 4
+Last epochs= 30
+Total runtime: 0.0 hours, 14.0 minutes, 54.96227025985718 seconds
+Best training loss= 0.001274913585311953 at epoch= 29
+Best validation loss= 0.0016091231032709873 at epoch= 28
+Best testing loss= 8.93968486502881e-05 MAE= 0.0081607488410205 at epoch= 29
+Early stop test= [0.018265646, 0.029250652, 0.019737562, 0.026244972, 0.022973605, 0.023577772, 0.025053846, 0.01939888, 0.023500826, 0.026507873]
+Early stop MSE = 0.00010984 MAE = 0.00944375
+
+
+
+
+horizon= 10 dModel= 16 lr=1e-05slidingrate= 5 attention heads= 16
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 16
+Total runtime: 0.0 hours, 50.0 minutes, 17.13923978805542 seconds
+Best training loss= 0.002147183846269719 at epoch= 15
+Best validation loss= 0.0013123018995439722 at epoch= 14
+Best testing loss= 5.9234098399801113e-05 MAE= 0.006737350654785738 at epoch= 14
+Early stop test= [0.018561395, 0.017480675, 0.017438842, 0.019783, 0.02317583, 0.02131972, 0.019783814, 0.02696896, 0.024552625, 0.025427237]
+Early stop MSE = 5.923e-05 MAE = 0.00744179
+
+
+horizon= 10 dModel= 256 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 16
+Total runtime: 1.0 hours, 1.0 minutes, 41.7188241481781 seconds
+Best training loss= 0.0030869727135571117 at epoch= 15
+Best validation loss= 0.0015500875577504388 at epoch= 14
+Best testing loss= 7.39615906570299e-05 MAE= 0.0067696578585321725 at epoch= 13
+Early stop test= [0.02781028, 0.030267466, 0.01561075, 0.020941084, 0.031015735, 0.028557515, 0.03195449, 0.031895354, 0.028845387, 0.03178168]
+Early stop MSE = 0.00021724 MAE = 0.01386056
+
+
+horizon= 10 dModel= 108 lr=1e-05slidingrate= 8 attention heads= 16
+
+horizon= 10 dModel= 128 lr=1e-05slidingrate= 8 attention heads= 16
+
+horizon= 10 dModel= 16 lr=1e-05slidingrate= 5 attention heads= 16
+
+horizon= 10 dModel= 16 lr=1e-05slidingrate= 5 attention heads= 16
+Last epochs= 36
+Total runtime: 0.0 hours, 18.0 minutes, 41.64728856086731 seconds
+Best training loss= 0.0016479560851346499 at epoch= 35
+Best validation loss= 0.00145048046261154 at epoch= 34
+Best testing loss= 0.00011752770803612382 MAE= 0.010011649515582496 at epoch= 35
+Early stop test= [0.023077521, 0.02785888, 0.016118165, 0.033425935, 0.03380811, 0.003348058, 0.008301046, 0.029770497, 0.019734519, 0.029641593]
+Early stop MSE = 0.00019101 MAE = 0.01220918
+
+
+horizon= 20 dModel= 16 lr=1e-05slidingrate= 5 attention heads= 16
